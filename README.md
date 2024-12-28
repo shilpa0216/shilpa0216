@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpa0216" alt="shilpa0216" /></a> </p>
 
-- 🔭 I’m currently working on **Zomato analysis**
+- 🔭 I’m currently working on **Zomato analysis project**
 
-- 🌱 I’m currently learning **Data visualization tools**
+- 🌱 I’m currently learning **Data visualization tools from Infosys**
 
 - 👯 I’m looking to collaborate on **Data analytics projects**
 
